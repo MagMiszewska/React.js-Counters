@@ -59,7 +59,7 @@ var Counter = React.createClass({
             React.createElement('span', {}, 'wynik: ' + this.state.counter),
             React.createElement('button', {
                 className: 'btn btn-lg btn-info',
-                onClick: this.decrement
+                onClick: this.increment
             }, 'Dodaj (+1)'),
         );
     }
