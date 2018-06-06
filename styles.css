@@ -1,0 +1,19 @@
+.container {
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    margin: 4% 0;
+}
+
+.btn {
+    margin: 2%;
+}
+
+span {
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
